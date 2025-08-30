@@ -1,0 +1,5 @@
+lang:
+  itemlock: "&6此装备已上锁，再次输入/itemlock解锁"
+  color: "1"
+  noTrade: "不可交易物品"    # 这边配置的是判断lore 不需要加颜色代码  具体的颜色代码可以随便写
+  lockLore: "已锁定"    # 这边的颜色代码在上面的color配置

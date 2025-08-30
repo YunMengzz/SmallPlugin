@@ -1,0 +1,9 @@
+main: cn.kylin.vipbag.Main
+name: VIPBag
+version: 1.0
+commands:
+  vbag:
+    aliases: vb
+    description: a command used by unlock bag.
+depend:
+  - PlaceholderAPI

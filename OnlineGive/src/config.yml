@@ -1,0 +1,16 @@
+online:
+  # 支持变量 <playerName>  <onlineTime>
+  a:
+    time: 10
+    commands:
+      - "og"
+      - "say aaa"
+    msg: "&l&a在线了<onlineTime>分钟获得了丰厚奖励"
+  b:
+    time: 5
+    commands:
+      - "og"
+      - "say aaa"
+    msg: "&l&a在线了<onlineTime>分钟获得了丰厚奖励"
+  #c:
+  #.....

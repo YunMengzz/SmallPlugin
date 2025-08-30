@@ -1,0 +1,9 @@
+main: cn.kylin.llw.Main
+version: 1.0
+name: LimitLevelWorld
+author: kylin
+commands:
+  llw:
+    description: A Command defined in LimitLevelWorld.
+depend:
+  - DreamLevel

@@ -1,0 +1,9 @@
+main: cn.startdream.kylin.randomhealth.RandomAddHealth
+name: RandomAddHealth
+version: 1.0.0
+author: StartDream-kylin
+commands:
+  addhealth:
+    aliases:
+      - "ah"
+    description: a command that use by RandomAddHealth plugin in order to add health

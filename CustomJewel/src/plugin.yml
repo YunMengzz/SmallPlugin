@@ -1,0 +1,6 @@
+main: cn.startdream.kylin.customjewel.Main
+author: StartDream-kylin
+version: 1.0.0
+commands:
+  cj:
+    description: a command used for CustomJewel

@@ -1,0 +1,12 @@
+# 生命值上限 超过此上线将不会增加血量
+healthLimit: 60
+# 成功几率
+random:
+  # 若开启 则指令中几率无效 使用此几率  默认为开启
+  # 若关闭 指令中传入几率 可动态化几率
+  enable: true
+  # 成功几率
+  success: 0.8
+language:
+  failMsg: "&c您被非酋传染了！ 增加生命值失败"
+  successMsg: "&a恭喜您！成功增加生命值。"

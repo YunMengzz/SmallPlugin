@@ -1,0 +1,6 @@
+version: "1.0"
+levelWorld:
+  - "World1:dl:10"  # 进入World1世界限制等级为10级
+  - "World2:dl:100"  # 进入World2世界限制等级为100级
+language:
+  limitMsg: "&c&l您还没有强大到能够进入到此世界！ &a&l限制等级：<limitLevel>"   # 等级不足进入世界时的提示信息 <limitLevel>为限制等级进入的变量

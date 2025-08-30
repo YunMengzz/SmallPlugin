@@ -1,0 +1,7 @@
+main: cn.startdream.kylin.anticlick.AntiClick
+version: 1.0.0
+author: StartDream-kylin
+name: AntiClick
+commands:
+  ac:
+    description: a command used by AntiClick plugin, in order to reload

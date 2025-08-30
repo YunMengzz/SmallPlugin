@@ -1,0 +1,7 @@
+main: cn.startdream.kylin.itemlock.ItemLock
+name: CustomItemLock
+author: StartDream-kylin
+version: 1.0.2
+commands:
+  itemlock:
+    description: this is a command uses to bind

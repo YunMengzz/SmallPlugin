@@ -1,0 +1,29 @@
+Huds:
+  Text:
+    t1:
+      text: 
+        - "&e回城&e(H)"
+      Id: 1242
+      x: 10
+      y: 25
+  Image:
+    a1:
+      Url: "[local]gui.png"
+      Id: 52424
+      x: 10
+      y: 10
+      w: 15
+      h: 15
+      xs : 15
+      ys: 15
+    a2:
+      Url: "[local]gui.png"
+      Id: 52425
+      x: 30
+      y: 10
+      w: 15
+      h: 15
+      xs : 15
+      ys: 15
+lockHudId: a1
+cooldown: 10  # 单位为秒

@@ -1,0 +1,9 @@
+name: OnlineGive
+version: 1.1
+author: kylin
+main: cn.kylin.onlinegive.Main
+commands:
+  og:
+    description: aaa.
+depend:
+  - ActionBarAPI

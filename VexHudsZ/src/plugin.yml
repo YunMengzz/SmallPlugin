@@ -1,0 +1,8 @@
+name: VexHuds
+main: net.canmenglo.vex.hud.Main
+version: 2.0
+author: 1957863988
+softdepend: [VexView]
+
+commands:
+  vhuds:
